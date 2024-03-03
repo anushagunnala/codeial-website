@@ -12,7 +12,7 @@ Introduce the Codeial project and its purpose: a social media platform that incl
 
 Briefly outline the project structure, including main directories and files responsible for different features.
 
-<img width="710" alt="image" src="https://i.postimg.cc/05n5h54y/codeial-all.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/05n5h54y/codeial-all.png" />
 
 # Creating a Post
 
@@ -24,13 +24,13 @@ we Design a form for creating posts. this form has all the details of the client
 Detail the process of updating a post:
 In this,We Allow users to edit their posts and we update the existing profile data like changing the name, address, etc
 
-<img width="710" alt="image" src="https://i.postimg.cc/9fRWrRPX/update-profile.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/9fRWrRPX/update-profile.png" />
 
 # Friend Management
 
 a. Add Friend:
 
-<img width="710" alt="image" src="https://i.postimg.cc/3NPjQDZy/addFrd.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/3NPjQDZy/addFrd.png" />
 
 Provide a button or link to add friends.
 
@@ -38,7 +38,7 @@ By sending a friend request, users express their interest in establishing a mutu
 
 b. Remove Friend:
 
-<img width="710" alt="image" src="https://i.postimg.cc/hj0PBFbV/remove-Frd.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/hj0PBFbV/remove-Frd.png" />
 
 Allow users to unfriend others.
 By choosing to remove a friend, users can disconnect from that individual's updates, posts, and other online activities. This feature is often used when users wish to disengage from someone or maintain a more selective and personalized online experience.
@@ -54,7 +54,7 @@ Key aspects of commenting include:Expression, Interactivity, Discussion, Feedbac
 
 # Changing Profile
 
-<img width="710" alt="image" src="https://i.postimg.cc/gk5fw15W/update-profile.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/gk5fw15W/update-profile.png" />
 
 a. Update Profile Information:
 
@@ -71,7 +71,7 @@ It typically appears at the top of a webpage or screen and serves as a menu or n
 
 a. Login/SignIn:
 
-<img width="710" alt="image" src="https://i.postimg.cc/fLhXqWrv/sigin.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/fLhXqWrv/sigin.png" />
 
 Create a login page with username/password fields.
 
@@ -82,14 +82,14 @@ Clear the user session on logout.
 
 c. Signup:
 
-<img width="710" alt="image" src="https://i.postimg.cc/sgrb95V6/signup.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/sgrb95V6/signup.png" />
 
 Develop a registration page.
 Implement user registration logic.
 
 # Chat Feature
 
-<img width="710" alt="image" src="https://i.postimg.cc/dt3CxCD6/chat.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/dt3CxCD6/chat.png" />
 
 A chat feature is a real-time communication tool that enables individuals or groups to exchange messages and engage in conversation through digital platforms. This feature has become ubiquitous across various applications, websites, and social media platforms, providing users with a convenient and immediate way to communicate
 
@@ -98,7 +98,7 @@ Implement backend logic for real-time messaging.
 
 # Add Like :
 
-<img width="710" alt="image" src="https://i.postimg.cc/q78cKLdj/addLike.png" />
+<img width="500" height="500" alt="image" src="https://i.postimg.cc/q78cKLdj/addLike.png" />
 
 AddLike:
 Liking a post" on social media has become a ubiquitous and straightforward way for users to express their approval or appreciation for content. A simple click of the "like" button communicates a positive response without the need for extensive comments. This feature not only serves as a quick way to acknowledge enjoyable or meaningful posts but also contributes to social validation and engagement within online communities. While it may seem like a small gesture, the act of liking a post plays a significant role in shaping online interactions and fostering a sense of connection among users.
@@ -112,6 +112,5 @@ Summarize the key features of the Codeial project and how each component contrib
 ### Github Link :
 
 **[Github Link]()**
-
 
 <!-- --------------------------------------------------- -->
